@@ -1,0 +1,7 @@
+python-telegram-bot==20.3
+requests==2.31.0
+Pillow==10.0.0
+pytesseract==0.3.10
+gTTS==2.3.2
+SpeechRecognition==3.10.0
+python-dotenv==1.0.0
